@@ -1,0 +1,23 @@
+{
+  "name": "react16-anchor-bug",
+  "version": "1.0.0",
+  "description": "React 16 anchor bug causing unwanted scroll when text content does not match with server",
+  "license": "ISC",
+  "author": "Petr Hanák",
+  "scripts": {
+    "start": "next"
+  },
+  "dependencies": {
+    "next": "^4.2.1",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petrhanak/react16-anchor-bug.git"
+  },
+  "bugs": {
+    "url": "https://github.com/petrhanak/react16-anchor-bug/issues"
+  },
+  "homepage": "https://github.com/petrhanak/react16-anchor-bug#readme"
+}
